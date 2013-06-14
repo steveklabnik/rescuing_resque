@@ -4,63 +4,9 @@
    An Open Source Story
 : author
    @steveklabnik
+: allotted-time
+  30 m   
 
-= Foo
+= Slide 1
 
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
-
-= Foo
+= Slide 2
